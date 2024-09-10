@@ -66,11 +66,13 @@ All Huggingface TrainingArguments can be passed in.
 If you find *CogniVoice* useful for your research, please consider citing this paper:
 
 ```
-@inproceedings{cheng2024_cognivoice,
-title={{C}ogni{V}oice: Multimodal and Multilingual Fusion Networks for Mild Cognitive Impairment Assessment from Spontaneous Speech},
-author={Jiali Cheng and Mohamed Elgaar and Nidhi Vakil and Hadi Amiri},
-year=2024,
-booktitle={Proc. INTERSPEECH 2024},
+@inproceedings{cheng24c_interspeech,
+  title     = {CogniVoice: Multimodal and Multilingual Fusion Networks for Mild Cognitive Impairment Assessment from Spontaneous Speech},
+  author    = {Jiali Cheng and Mohamed Elgaar and Nidhi Vakil and Hadi Amiri},
+  year      = {2024},
+  booktitle = {Interspeech 2024},
+  pages     = {4308--4312},
+  doi       = {10.21437/Interspeech.2024-2370},
 }
 ```
 
